@@ -1,0 +1,128 @@
+* {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    overflow-y: hidden;
+
+}
+
+body {
+    background: #272C34 !important;
+    height: 100vh;
+    font-family: Helvetica, sans-serif;
+}
+
+.navbar-brand {
+    color: white !important;
+    font-size: 38px !important;
+    font-family: Viga;
+    font-weight: 400 !important;
+    /* word-wrap: break-word */
+
+}
+
+.nav-link {
+    color: #FFF !important;
+    font-family: Viga !important;
+    font-size: 19px !important;
+    font-style: normal;
+    font-weight: 400 !important;
+    line-height: normal !important;
+    padding-top: 99px !important;
+}
+
+.back-txt {
+    position: relative;
+    padding-left: 1080px !important;
+    width: 255vh;
+    height: 27vh;
+   
+}
+
+.name {
+    padding-left: 600px !important;
+    color: white !important;
+    font-family: Viga;
+    font-size: 33px;
+    font-style: normal;
+    font-weight: bold;
+    line-height: normal;
+    padding-bottom: 50px !important;
+
+}
+.sub{
+    padding-left: 595px !important;
+    color: white !important;
+
+}
+.rate{
+    color: white;
+    padding-left: 485px !important;
+    padding-top: 190px;
+    font-size: 33px;
+    color: #FE8033;
+font-family: Segoe UI Emoji;
+}
+.btn1{
+    padding-left: 530px !important;
+    padding-top: 350px;
+}
+.btn2{
+    padding-left: 803px !important;
+    padding-top: 350px;
+}
+.btn-txt1{
+    color: white;
+    padding-left: 530px !important;
+    padding-top: 350px;
+    font-weight: bold;
+}
+.btn-txt2{
+    color: white;
+    padding-left: 803px !important;
+    padding-top: 350px;
+    font-weight: bold;
+}
+.img{
+ position: relative;
+ right: 80px;
+float: right;
+padding-top: 90px;
+}
+.shadow{
+    background: rgba(0, 0, 0, 0.55);
+filter: blur(75.5px);
+width: 336px;
+height: 140px;
+float: right;
+position: relative;
+margin-top: 400px !important;
+left: 360px;
+}
+.line{
+    width: 50px;
+height: 3px;
+background: #FF9437;
+position: relative;
+left: 609px;
+bottom: 22px;
+}
+.icon{
+    
+    font-size: 20px !important;
+     rotate: 90deg;
+     margin-left: 1200px;
+     position: relative;
+     top: 2px;
+}
+.insta{
+ padding-right: 100px;
+ padding-bottom: 100px;
+ position: relative;
+
+
+}
+.git{
+    padding-right: 180px;
+    padding-bottom: 100px;
+}
